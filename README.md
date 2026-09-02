@@ -17,4 +17,4 @@ Script: Figure2.R
 Figure 3: Partial Redundancy Analysis (pRDA) Locus Associations
 Script: Figure3.R
 Figure 4: Integrated Selection Scans & Haplotype Sweeps
-Script: Figure4.R   
+Script: Figure4.R  
